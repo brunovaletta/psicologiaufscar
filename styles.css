@@ -1,0 +1,31 @@
+.frame {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.image-block {
+    margin: auto;
+    display: inline;
+}
+
+img {
+    margin: 10px 30px;
+    cursor: pointer;
+    width: 300px;
+    height: 300px;
+    visibility: hidden;
+}
+
+.botao {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.frame-botao {
+    display: flex;
+    justify-content: center;
+}
