@@ -1,5 +1,3 @@
-window.location.reload(true);
-
 let img1 = document.getElementById('img1');
 let img2 = document.getElementById('img2');
 let img3 = document.getElementById('img3');
