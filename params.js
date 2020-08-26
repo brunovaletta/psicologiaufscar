@@ -1,5 +1,4 @@
-const params = { stimuli:[cherry,slide,stove,pool,bell,grape,eggplant,box,lizard,scarf,lettuce,cow], index:[6,2,4,5,6,3,3,1,5,3,6,4,1,5,2,6,1,5,9,10,7,8,7,9,11,8,12,8,10,12,10,7,11,10,9,11,6,3,5,4,1,3,5,2,1,6,5,4,2,6,3,3,4,1,10,12,8,8,11,7,7,9,12,8,11,9,11,12,10,7,10,8]}
-
+const params = { stimuli:[cherry,slide,stove,pool,bell,grape,eggplant,box,lizard,scarf,lettuce,cow], index:[1,6,4,5,2,3,3,1,5,6,4,2,3,5,4,5,1,6,7,11,9,10,8,12,12,9,10,11,7,10,11,9,8,10,8,12,4,5,6,3,2,5,6,3,2,1,6,4,4,1,5,6,4,1,8,10,11,10,11,12,7,11,9,7,12,10,9,8,11,12,7,9]}
 
 
 
