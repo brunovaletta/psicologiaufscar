@@ -7,7 +7,7 @@ O teste consiste em apresentar três cartões com imagens (estímulos) para a cr
 
 No exemplo abaixo, a aplicadora solicita: "Aponte cow." Então a criança clica no item que julgar correto e essa opção fica destacada.
 
-<img src="./preview.png>
+<img src="./preview.png">
 
 Este projeto está implementado no github Pages: https://brunovaletta.github.io/psicologiaufscar/
 
