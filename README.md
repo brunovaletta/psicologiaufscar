@@ -1,5 +1,5 @@
 # psicologiaufscar
-Projeto de pesquisa - aprendizado de inglês para crianças - teste de tato.
+Projeto de pesquisa - Aprendizado de inglês para crianças - Teste de Comportamento de Ouvinte.
 
 Aplicação web que simula um teste de "tato" utilizado para avaliar a eficácia do aprendizado de língua inglesa em crianças.
 
