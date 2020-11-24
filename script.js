@@ -53,7 +53,7 @@ botao.onclick = () => {
     escolheu = false;
   }
 
-  if (tentativa >= 14) {
+  if (tentativa >= 26) {
     hideImages();
     botao.style.visibility = 'hidden';
     document.body.style.backgroundColor = 'black';
