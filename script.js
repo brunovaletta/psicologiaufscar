@@ -6,6 +6,8 @@ let tentativa = 1;
 let contIndex = 0;
 let escolheu = false;
 
+const blocos = 4;
+
 let images = [''];
 for (let i = 0; i < params.stimuli.length; i++) {
   images.push(params.stimuli[i]);
@@ -53,7 +55,7 @@ botao.onclick = () => {
     escolheu = false;
   }
 
-  if (tentativa >= 38) {
+  if (tentativa >= blocos*6+2) {
     hideImages();
     botao.style.visibility = 'hidden';
     document.body.style.backgroundColor = 'black';
